@@ -16,3 +16,8 @@ img {
   padding: 10px;
   background-color: grey
 }
+
+#featured-property.a {
+  width: 800px;
+  align-content: center
+}
