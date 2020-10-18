@@ -4,4 +4,7 @@ body {
   margin: 0;
 }
 
-head
+h1 {
+  align-content: center
+}
+
