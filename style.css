@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  align-content: center
+}
+
+img {
+  align-content: center
+}
+
+.nav#a {
+  padding: 10px;
+  background-color: grey
+}
+
+#featured-property.a {
+  width: 800px;
+  align-content: center
+}
+
